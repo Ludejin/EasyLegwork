@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">轻松外勤</string>
+
+    <string name="tab_title_work">日常工作</string>
+    <string name="tab_title_visit">客户拜访</string>
+    <string name="tab_title_report">数据上报</string>
+    <string name="tab_title_other">其&#x0020;他</string>
+
+    <string name="get_code">获取验证码</string>
+    <string name="doLogin">登&#x0020;录</string>
+</resources>

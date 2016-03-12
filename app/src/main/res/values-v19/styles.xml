@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="actionBarSize">@dimen/actionbar_height</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="BaseAppTheme.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
